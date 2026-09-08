@@ -18,3 +18,5 @@ If you are a new contributor, see also the Typelevel [Start Contributing Guide][
 > Commits including AI tools as a co-author cannot be accepted.
 
 [contributors' guide]: https://http4s.org/contributing/
+[scg]: https://typelevel.org/community/start-contributing
+[Apache License 2.0]: https://www.apache.org/licenses/LICENSE-2.0
