@@ -6,7 +6,7 @@ We are currently providing security updates to the following http4s core version
 
 | Version | Supported          |
 |---------|--------------------|
-| 1.x     | :white_check_mark: |
+| 1.x     | :hourglass:        |
 | 0.23.x  | :white_check_mark: |
 | 0.22.x  | :x:                |
 | 0.21.x  | :x:                |
@@ -16,6 +16,8 @@ We are currently providing security updates to the following http4s core version
 | < 0.18  | :x:                |
 
 For other repos in the http4s org on different release cycles, see their documentation.
+
+1.x will receive security updates as 0.23.x merges forward, but there may be lag between disclosure and a patched release.
 
 ## Reporting a Security Issue
 
