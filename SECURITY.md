@@ -21,10 +21,7 @@ For other repos in the http4s org on different release cycles, see their documen
 
 ## Reporting a Security Issue
 
-To report a security issue, please use one of the following methods:
-
-1. Navigate to the "Security and quality" tab at the top of the relevant repository, click the "Report a vulnerability" button, and complete the form as much as possible.
-2. Email the [Security Team](#security-team) with a description of the issue, the steps you took to create the issue, affected versions, and, if known, mitigations for the issue.
+To report a security issue, please email the [Security Team](#security-team) with a description of the issue, the steps you took to create the issue, affected versions, and, if known, mitigations for the issue.
 
 The Security Team will attempt to respond within 3 working days of your report.  If the issue is confirmed as a vulnerability, we will open a Security Advisory.  This project follows a 90 day disclosure timeline.
 
