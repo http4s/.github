@@ -44,7 +44,7 @@ automatically receive updates.
 
 | name                                           | email               | PGP public key                                                                                                         |
 |------------------------------------------------|---------------------|------------------------------------------------------------------------------------------------------------------------|
-| [Ross A. Baker](https://github.com/rossabaker) | ross@rossabaker.com | [0x975BE5BC29D92CA5](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x904c153733dbb0106915c0bd975be5bc29d92ca5) |
+| [Ross A. Baker](https://github.com/rossabaker) | ross@rossabaker.com | [0x975BE5BC29D92CA5](https://openpgpkey.rossabaker.com/.well-known/openpgpkey/rossabaker.com/hu/eimhw3om3jynrs7fo7r7rrssmt1o4yxp) |
 | [Arman Bilge](https://github.com/armanbilge)   | arman@typelevel.org | [0xA335B107E9282548](https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x1CAE49948EE0A2D7154A2B62A335B107E9282548) |
 | [Erlend Hamnaberg](https://github.com/hamnis)  |                     |
 ||
