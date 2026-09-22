@@ -26,7 +26,7 @@ To report a security issue, please use one of the following methods:
 1. Navigate to the "Security and quality" tab at the top of the relevant repository, click the "Report a vulnerability" button, and complete the form as much as possible.
 2. Email the [Security Team](#security-team) with a description of the issue, the steps you took to create the issue, affected versions, and, if known, mitigations for the issue.
 
-The Security Team will attempt to respond within 3 working days of your report.  If the issue is confirmed as a vulnerability, we will open a Security Advisory.  This project follows a 90 day disclosure timeline.
+The Security Team is all volunteer, and will respond as soon as practical.  If the issue is confirmed as a vulnerability, we will open a GitHub Security Advisory.
 
 ## Procedure
 
