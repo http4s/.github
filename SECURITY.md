@@ -26,6 +26,33 @@ To report a security issue, please use one of the following methods:
 1. Navigate to the "Security and quality" tab at the top of the relevant repository, click the "Report a vulnerability" button, and complete the form as much as possible.
 2. Email the [Security Team](#security-team) with a description of the issue, the steps you took to create the issue, affected versions, and, if known, mitigations for the issue.
 
+### Submission guidelines
+
+#### Proof of concept
+
+Reports must include an executable proof-of-concept (PoC)
+demonstrating the vulnerability against a supported version.  Reports
+missing an executable PoC or or actionable steps may be closed without
+investigation.
+
+- The script should be a minimal Scala file (e.g., runnable via
+  `scala-cli` or `sbt`) or a self-contained shell script using
+  standard tools (`curl`, `httpie`).
+- The script should return exit code `0` when the vulnerability is
+  successfully triggered.
+
+Exception: if the flaw is conceptual, architectural, or
+non-deterministic (e.g., a side-channel timing attack), provide
+detailed steps and logic demonstrating the impact.
+
+#### Rate limits
+
+To maintain triage capacity, we ask that researchers and limit
+themselves to 3 open advisories across the organization at any time.
+Reports in excess of this limit may be deferred or closed.
+
+### Response expectations
+
 The Security Team is all volunteer, and will respond as soon as practical.  If the issue is confirmed as a vulnerability, we will open a GitHub Security Advisory.
 
 ## Procedure
